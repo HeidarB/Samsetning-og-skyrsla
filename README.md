@@ -1,10 +1,10 @@
 # Samsetning-og-skyrsla
-# Samsung 850 evo 250gb SSD - https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-250gb-mz-75e250b-am/
-# SAMSUNG M391B5273DH0-CH9 2RX8 PC3-10600E 4GB (x4)- https://www.amazon.com/SAMSUNG-M391B5273DH0-CH9-2RX8-PC3-10600E-ONLY/dp/B00DUGF344/ref=sr_1_4?crid=1EGKR0CHPO9U8&keywords=4gb+2rx8+pc3+10600s+samsung&qid=1698931718&sprefix=4gb+2rx8+pc3+10600s+samsun%2Caps%2C198&sr=8-4
-# nvidia quadro 2000 graphics card - https://www.amazon.com/PNY-DisplayPort-Profesional-Graphics-VCQ2000-PB/dp/B0046HSHD0
-# intel xeon E3-1225 CPU - https://www.intel.com/content/www/us/en/products/sku/52270/intel-xeon-processor-e31225-6m-cache-3-10-ghz/specifications.html
-# HP DPS-400AB-13A - 400W Power Supply - https://www.cpumedics.com/hp-dps-400ab-13a-400w-power-supply-for-hp-workstation-z210-z220-cmt-medium-tower/
-# HP Z210 615943-001 614491-001 614491-002 Motherboard
+### Samsung 850 evo 250gb SSD - https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-850-evo-2-5-sata-iii-250gb-mz-75e250b-am/
+### SAMSUNG M391B5273DH0-CH9 2RX8 PC3-10600E 4GB (x4)- https://www.amazon.com/SAMSUNG-M391B5273DH0-CH9-2RX8-PC3-10600E-ONLY/dp/B00DUGF344/ref=sr_1_4?crid=1EGKR0CHPO9U8&keywords=4gb+2rx8+pc3+10600s+samsung&qid=1698931718&sprefix=4gb+2rx8+pc3+10600s+samsun%2Caps%2C198&sr=8-4
+### nvidia quadro 2000 graphics card - https://www.amazon.com/PNY-DisplayPort-Profesional-Graphics-VCQ2000-PB/dp/B0046HSHD0
+### intel xeon E3-1225 CPU - https://www.intel.com/content/www/us/en/products/sku/52270/intel-xeon-processor-e31225-6m-cache-3-10-ghz/specifications.html
+### HP DPS-400AB-13A - 400W Power Supply - https://www.cpumedics.com/hp-dps-400ab-13a-400w-power-supply-for-hp-workstation-z210-z220-cmt-medium-tower/
+### HP Z210 615943-001 614491-001 614491-002 Motherboard
 Here's a breakdown of the key components:
 
 Storage Drive: The computer features a Samsung 850 EVO 250GB SSD (Solid State Drive). This SSD provides fast data access and storage for the operating system and applications.
